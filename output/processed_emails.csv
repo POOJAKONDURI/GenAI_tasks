@@ -1,0 +1,16 @@
+Sender,Receiver,Subject,Summary (EN),Summary (HI)
+alice@example.com,bob@example.com,Meeting Reminder,"Alice is reminding Bob of their 10 AM meeting tomorrow to discuss project deadlines and deliverables.
+","ऐलिस बॉब को कल सुबह 10 बजे होने वाली उनकी मीटिंग की याद दिला रही है ताकि प्रोजेक्ट की समय सीमा और वितरणीयों पर चर्चा की जा सके।  (Alice Bob ko kal subah 10 baje hone wali unki meeting ki yaad dila rahi hai taki project ki samay seema aur vitraniyon par charcha ki ja sake.)
+"
+charlie@example.com,dana@example.com,Project Update,"Charlie updated Dana that the project's first phase is complete, they're on schedule to begin the second phase next week, and he welcomes any questions or concerns.
+","चारली ने डाना को बताया कि परियोजना का पहला चरण पूरा हो गया है, वे अगले हफ़्ते दूसरे चरण को शुरू करने के लिए समय पर हैं, और वह किसी भी प्रश्न या चिंता का स्वागत करते हैं। (Charli ne Dana ko bataya ki pariyojana ka pahla charan pura ho gaya hai, ve agle hafta dusre charan ko shuru karne ke liye samay par hain, aur vah kisi bhi prashn ya chinta ka swagat karte hain.)
+"
+eve@example.com,frank@example.com,Feedback Request,"Eve asks Frank for feedback on a presentation she sent him last week before finalizing it for a client meeting.
+","ईव ने फ्रैंक से पिछले हफ़्ते भेजी गई प्रस्तुति पर अपनी प्रतिक्रिया मांगी है, इससे पहले कि वह क्लाइंट मीटिंग के लिए उसे अंतिम रूप दे। (Eve ne Frank se pichhle hafta bheji gayi prastuti par apni pratikriya maangi hai, isse pehle ki vah client meeting ke liye use antim roop de.)
+"
+grace@example.com,heidi@example.com,Vacation Plans,"Grace is checking in with Heidi about their vacation plans for next month, asking if they're still on track and if Heidi has any specific plans or preferences.
+","ग्रेस अगले महीने की अपनी छुट्टी की योजनाओं के बारे में हेदी से बात कर रही है, यह पूछ रही है कि क्या वे अभी भी योजना के अनुसार हैं और क्या हेदी की कोई विशेष योजना या प्राथमिकताएँ हैं। (Grace agle mahine ki apni chutti ki yojanaon ke baare mein Heidi se baat kar rahi hai, yeh puchh rahi hai ki kya ve abhi bhi yojana ke anusar hain aur kya Heidi ki koi vishesh yojana ya prathmikataen hain.)
+"
+isaac@example.com,jessica@example.com,Follow-Up on Proposal,"Isaac is following up on a marketing strategy proposal he sent Jessica last week and wants to know her thoughts.
+","आइज़ैक पिछले हफ़्ते जेसिका को भेजे गए मार्केटिंग रणनीति प्रस्ताव पर फ़ॉलो अप कर रहा है और उनकी राय जानना चाहता है। (Isaac pichhle hafte Jessica ko bheje gaye marketing ranniti prastav par follow up kar raha hai aur unki ray jaanna chahta hai.)
+"
