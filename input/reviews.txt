@@ -1,0 +1,30 @@
+Product: Laptop
+Review: This laptop has excellent performance but could improve on battery life.
+---END OF REVIEW---
+Product: vacuum cleaner
+Review: Setup was a breeze, and the vacuum cleaner works like a charm. My floors have never been cleaner!.
+---END OF REVIEW---
+Product: Wireless Earbuds
+Review: The sound quality is clear, and the noise cancellation works great. Very satisfied!.
+---END OF REVIEW---
+Product: printer
+Review: The printer is noisy, slow, and constantly jams. Save your money and avoid this one.
+---END OF REVIEW---
+Product: Smartphone
+Review: The camera quality is disappointing, and the battery drains quickly.
+---END OF REVIEW---
+Product: camera
+Review: The camera quality is mediocre at best. I expected better for the price.
+---END OF REVIEW---
+Product: Smartwatch
+Review: I love the sleek design and the range of fitness features available.
+---END OF REVIEW---
+Product: Headphones
+Review: These headphones are comfortable, but the sound quality is subpar.
+---END OF REVIEW---
+Product: microwave
+Review: The microwave stopped working after two weeks. Extremely disappointed.
+---END OF REVIEW---
+Product: TV
+Review: The TV screen developed dead pixels after just one month, disappointing purchase.
+---END OF REVIEW---
